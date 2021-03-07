@@ -1,0 +1,9 @@
+{
+    "icao_api_key": "3180f10a-b4d3-4c2c-9954-b5515991ac1c",
+    "locations": [
+        "LFPN", "LFPI", "LFPB", "LFPO", "LFPG",
+        "LFOL", "LFFQ", "LFOX", "LFFE", "LFPT",
+        "LFFC"
+    ],
+    "output_folder": "C:/Notams"
+}
